@@ -6,9 +6,13 @@
 
 ## 🚀 如何打开
 
-**方式一(最简单):直接双击 `index.html`**,会用浏览器打开。
+**⭐ 在线访问(手机推荐):[https://mirandaskh.github.io/kids-english-app/](https://mirandaskh.github.io/kids-english-app/)**
 
-**方式二(推荐,体验更完整):** 启动本地服务器后访问 `http://127.0.0.1:8765/`
+任意设备、任意网络直接打开;手机浏览器打开后可「添加到主屏幕」当 APP 用。
+
+**方式一(离线):直接双击 `index.html`**,会用浏览器打开。
+
+**方式二(局域网):** 启动本地服务器后,手机(同一 Wi-Fi)访问 `http://<电脑IP>:8765/`
 
 ```powershell
 # 在项目目录执行(需要 PowerShell,Windows 自带)
